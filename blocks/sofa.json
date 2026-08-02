@@ -1,0 +1,27 @@
+{
+  "model": "custom",
+  "model-name": "sofa",
+  "rotation": "pane",
+  "caption": "sofa",
+  "script-name": "chair_common",
+  "material": "base:wood",
+  "sky-light-passing": false,
+  "solid": false,
+  "light-passing": true,
+  "hitbox": [
+    0,
+    0,
+    0,
+    2,
+    0.5,
+    1
+  ],
+  "size": [
+    2,
+    1,
+    1
+  ],
+  "tags": [
+    "intcom:seat"
+  ]
+}

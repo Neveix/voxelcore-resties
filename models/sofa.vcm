@@ -1,0 +1,32 @@
+@box from (0, 0, 0) to (2, 0.5, 1) origin (0.8125, 0.5, 0.1875) {
+    @part tags (south) texture "blocks:sofa" region (0, 0.875, 0.5, 1)
+    @part tags (west) texture "blocks:sofa" region (0.5, 0.75, 0.75, 0.875)
+    @part tags (north) texture "blocks:sofa" region (0, 0.5, 0.5, 0.625)
+    @part tags (east) texture "blocks:sofa" region (0.75, 0.875, 0.5, 1)
+    @part tags (top) texture "blocks:sofa" region (0.5, 0.875, 0, 0.625)
+    @part tags (bottom) texture "blocks:sofa" region (0.5, 0.25, 0, 0.5)
+}
+@box from (0, 0.5, 0) to (2, 0.9375, 0.25) origin (0.0625, 0.5, 0.0625) {
+    @part tags (south) texture "blocks:sofa" region (0, 0.140625, 0.5, 0.25)
+    @part tags (west) texture "blocks:sofa" region (0.5625, 0.125, 0.625, 0.234375)
+    @part tags (north) texture "blocks:sofa" region (0, 0.03125, 0.5, 0.140625)
+    @part tags (east) texture "blocks:sofa" region (0.5625, 0.125, 0.5, 0.234375)
+    @part tags (top) texture "blocks:sofa" region (1, 0.125, 0.5, 0.0625)
+    @part tags (bottom) texture "blocks:sofa" region (1, 0, 0.5, 0.0625)
+}
+@box from (0, 0.5, 0.25) to (0.125, 0.75, 1) origin (0.0625, 0.5, 0.3125) {
+    @part tags (south) texture "blocks:sofa" region (0.5625, 0.5625, 0.59375, 0.625)
+    @part tags (west) texture "blocks:sofa" region (0.5625, 0.625, 0.75, 0.6875)
+    @part tags (north) texture "blocks:sofa" region (0.59375, 0.5625, 0.625, 0.625)
+    @part tags (east) texture "blocks:sofa" region (0.75, 0.6875, 0.5625, 0.75)
+    @part tags (top) texture "blocks:sofa" region (0.53125, 0.75, 0.5, 0.5625)
+    @part tags (bottom) texture "blocks:sofa" region (0.5625, 0.5625, 0.53125, 0.75)
+}
+@box from (1.875, 0.5, 0.25) to (2, 0.75, 1) origin (1.9375, 0.5, 0.3125) {
+    @part tags (south) texture "blocks:sofa" region (0.5625, 0.5625, 0.59375, 0.625)
+    @part tags (west) texture "blocks:sofa" region (0.5625, 0.6875, 0.75, 0.75)
+    @part tags (north) texture "blocks:sofa" region (0.59375, 0.5625, 0.625, 0.625)
+    @part tags (east) texture "blocks:sofa" region (0.75, 0.625, 0.5625, 0.6875)
+    @part tags (top) texture "blocks:sofa" region (0.53125, 0.75, 0.5, 0.5625)
+    @part tags (bottom) texture "blocks:sofa" region (0.5625, 0.5625, 0.53125, 0.75)
+}

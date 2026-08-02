@@ -1,0 +1,22 @@
+{
+  "model": "custom",
+  "model-name": "tabouret",
+  "rotation": "pane",
+  "caption": "tabouret",
+  "script-name": "chair_common",
+  "material": "base:wood",
+  "sky-light-passing": true,
+  "solid": false,
+  "light-passing": true,
+  "hitbox": [
+    0.125,
+    0,
+    0.125,
+    0.75,
+    0.625,
+    0.75
+  ],
+  "tags": [
+    "intcom:seat"
+  ]
+}

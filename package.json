@@ -1,0 +1,12 @@
+{
+  "id": "resties",
+  "title": "Resties",
+  "version": "1.0.0",
+  "creators": [
+    "Neveix"
+  ],
+  "description": "Take a rest. Sit on chairs, sofas, and more!\nИнтерактивная мебель",
+  "dependencies": [
+    "intcom"
+  ]
+}
